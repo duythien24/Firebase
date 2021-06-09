@@ -1,0 +1,2 @@
+rootProject.name = "NgduyThien"
+include ':app'
